@@ -42,7 +42,7 @@
     font-size: 65px;
 }
 body{
-	background:url("train.jpg");
+	background:url("html1/train.jpg");
 	animation:image 5s infinite alternate;
 	-webkit-animation:image 5s infinite alternate;
 	-moz-animation:image 5s infinite alternate;
@@ -51,23 +51,23 @@ body{
 }
 @keyframes image{
 	0%{
-		background:url("train.png");
+		background:url("html1/train.png");
 	}
 
 	25%{
-		background:url("train2.png");
+		background:url("html1/train2.png");
 	}
 
 	50%{
-		background:url("ses.png");
+		background:url("html1/ses.png");
 	}
 
 	75%{
-		background:url("kitaplık.png");
+		background:url("html1/kitaplık.png");
 	}
 
 	100%{
-		background:url("bilardo.png");
+		background:url("html1/bilardo.png");
 	}
 }
 button{
